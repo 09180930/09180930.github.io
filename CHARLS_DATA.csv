@@ -1,0 +1,1198 @@
+ID,depression,depression15,urban,wealth,sex,age,bmi_level,marriage,edu15,chronic15,smoke15,drink15,sleep15,ADL15,exercise_volume_15
+010446118001,4,6,rural,2320,male,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5,1,600
+010206223001,8,20,rural,30800,male,68,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.45,23730
+117489326002,0,2,rural,11480,male,75,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1,5838
+298631122001,14,9,rural,860,male,68,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.45,5706
+211154214001,0,0,city,26228,male,79,too thin,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,7,1,10746
+105381324001,2,2,rural,13320,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,6.5,1,1806
+175531303001,3,7,rural,17240,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.2,11146.5
+296331314002,12,2,rural,12452,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,5,1,5598
+266306210001,4,9,rural,2840,male,69,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,1386
+154676212001,4,6,rural,7680,male,71,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,,1.65,26586
+122490316001,6,3,city,3368,male,69,normal,single,3 Sishu/Home School,without_chronic15,smoke_yes15,more_once_drink15,7,1,2970
+046746304002,4,4,rural,15760,male,71,too thin,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_yes15,no_drink15,5,1,25410
+018206308001,9,14,rural,16772,male,65,too thin,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,4.5,1.85,11760
+034676326002,8,9,rural,424,male,69,too thin,single,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,8,1,12558
+158278305002,22,12,rural,6000,male,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.15,
+326359304002,27,3,rural,11460,male,63,too thin,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,6,1.85,1566
+321659312001,10,5,rural,13980,male,62,normal,married,6 High School,without_chronic15,smoke_yes15,no_drink15,10,1,18690
+135559305002,9,11,rural,7632,male,66,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,12,1.3,346.5
+275559123001,1,0,rural,47960,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1,1032
+135559126001,12,0,rural,10000,male,67,too thin,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,8,1,
+261676112001,11,15,rural,2014,male,69,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.2,17970
+051606327001,1,2,rural,14100,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7,1,13518
+336059114001,6,7,rural,14016,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.35,346.5
+034676119002,2,0,rural,7376,male,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,less_once_drink15,8,1.2,9786
+268606314002,7,3,rural,8740,male,75,too thin,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,6,1.1,4398
+294099126002,15,9,rural,6420,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,3699
+162431210002,4,0,rural,7440,male,67,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.05,
+138202115001,18,16,rural,2740,male,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.55,26586
+175531309001,1,7,rural,7120,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,3150
+291676110001,1,3,rural,2260,male,63,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,8,1.15,6930
+296006209002,14,8,rural,18430,male,62,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4.5,1.7,148.5
+117489207002,7,9,rural,5240,male,71,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,5,1,4158
+108259125001,6,3,rural,7700,male,83,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,7,1.8,1980
+058659121002,0,2,rural,1856,male,79,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.05,1386
+321659118001,1,0,rural,1570,male,64,overweight,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,5,1.05,148.5
+334002302001,6,16,rural,7990,male,60,too thin,single,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7.5,1.25,4158
+134902306001,11,7,rural,25500,male,67,normal,married,3 Sishu/Home School,with_chronic15,smoke_yes15,more_once_drink15,8,1,20238
+285502125001,6,11,rural,14690,male,64,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,more_once_drink15,6,1,4158
+010206302002,5,3,rural,15540,male,61,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,5,1,6930
+054054222001,6,5,city,7580,male,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,4,1,1386
+141154101002,10,5,rural,8280,male,62,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1,
+135559216002,9,10,rural,11100,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.2,21564
+265359218002,0,1,rural,8280,male,61,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,6,1.3,
+161159109001,11,9,rural,4256,male,60,normal,single,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5.5,1.2,346.5
+105381207002,16,8,rural,7440,male,69,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1.5,1386
+010206220002,11,0,rural,3134,male,73,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,6,1,11730
+202454219001,3,3,city,31200,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1,20958
+265576116001,9,8,rural,4430,male,67,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,6,1.15,28530
+177402302001,14,8,rural,22020,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,3.5,1.75,
+151156101002,6,0,rural,28560,male,70,overweight,single,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,9,1.05,1386
+288251117002,22,12,city,390000,male,81,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.45,1386
+138202321001,6,4,rural,5320,male,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1,7866
+296006309001,7,8,rural,484,male,71,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,4,1.05,346.5
+295331112002,10,2,rural,2476,male,63,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,20610
+108259211002,11,18,rural,13860,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,6,1.4,2262
+324045101002,2,3,city,10700,male,65,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1,
+154628123001,7,24,rural,2380,male,62,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1,23730
+271806211001,9,25,city,1260,male,78,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,7,1.15,1386
+154631103002,7,1,rural,11140,male,69,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,8,1.05,1386
+244604211002,6,2,rural,137400,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1,1386
+150478118001,12,5,rural,6010,male,75,normal,married,4 Elementary School,without_chronic15,smoke_no15,less_once_drink15,9,1,2106
+074002318002,2,2,rural,3422,male,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,4,1.3,792
+334631203001,27,18,rural,19260,male,71,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,2,1.5,2376
+321659109002,0,1,rural,16800,male,67,overweight,single,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,6,1.05,3066
+060481322002,8,12,rural,2700,male,68,overweight,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.15,6426
+014051107001,3,7,rural,5620,male,66,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,,1,6930
+056604207002,0,1,rural,9660,male,83,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,2,1,5976
+155676309002,6,6,rural,6480,male,60,normal,married,6 High School,without_chronic15,smoke_yes15,more_once_drink15,6,1,12750
+114604103002,8,2,city,18040,male,63,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,547.5
+138202319001,17,10,rural,35400,male,63,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.6,13200
+297439228002,5,7,rural,42548,male,67,overweight,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,8,1,4746
+205304215002,13,7,city,23144,male,65,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,7,1.65,4158
+010104129002,17,21,rural,29900,male,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,5,1.25,22638
+122490312002,23,21,city,31200,male,78,overweight,married,7 Vocational School,without_chronic15,smoke_no15,no_drink15,8,1.35,12558
+204906315001,4,7,rural,7880,male,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,17730
+058202219001,10,10,rural,1916.2,male,64,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,5.5,1.25,9198
+345233232001,2,9,rural,2600,male,63,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.05,16800
+330404321001,5,5,rural,8800,male,75,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,5,1.35,5040
+078233101002,11,7,rural,5520,male,61,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.35,18186
+296081322001,12,2,rural,980,male,63,overweight,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,9,1.05,9810
+211176118001,3,11,rural,6166.7998,male,61,overweight,married,6 High School,with_chronic15,smoke_no15,less_once_drink15,6,1.35,7920
+074981327001,2,15,rural,71810,male,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5,1,25200
+174643107002,0,0,rural,9594,male,71,normal,single,7 Vocational School,with_chronic15,smoke_no15,no_drink15,7,1,9198
+060481324002,5,8,rural,13440,male,65,overweight,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5,1.05,1386
+204906312001,3,3,rural,19200,male,65,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,6,1,7386
+122490125001,21,15,rural,18118,male,69,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,5,1,32130
+291676231002,11,9,rural,13960,male,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1,14130
+064604116001,3,0,city,8920,male,65,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.15,1806
+166006317002,3,8,rural,16200,male,66,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.1,32130
+166006319002,4,3,rural,5260,male,63,normal,married,5 Middle School,without_chronic15,smoke_yes15,less_once_drink15,8,1.05,16170
+244056304002,9,16,rural,18644,male,60,too thin,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,3,1.25,7038
+168231118001,7,1,rural,12740,male,67,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.15,13146
+280154301001,3,6,rural,9836,male,67,too thin,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,7,1,10800
+324045204001,0,6,rural,11380,male,66,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,8,1.4,1386
+171159112001,14,3,rural,1116,male,60,normal,single,6 High School,with_chronic15,smoke_no15,no_drink15,7,1.15,1386
+094004112001,6,3,city,8400,male,69,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.15,1386
+014051228002,11,14,rural,38320,male,79,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,10,1.5,3066
+324681110001,6,10,rural,3480,male,66,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,7,1,9198
+010451109002,10,7,rural,10700,male,71,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,8,1.05,1386
+054054240001,10,20,rural,7330,male,84,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7,1,16158
+270402302001,6,6,rural,3440,male,62,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1.1,12586.5
+298631106001,2,8,rural,9020,male,60,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5.5,1.15,9786
+262728312001,17,16,rural,11200,male,70,too thin,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,1.9,169.5
+056059113002,3,3,rural,83150,male,70,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.15,1566
+244676225002,11,6,rural,42780,male,66,normal,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,6,1,4800
+056604206002,21,6,rural,2260,male,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.35,10638
+031106116002,6,3,rural,14080,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,7,1.05,6186
+105102210002,3,2,city,25600,male,74,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.5,3066
+242702222002,14,6,rural,2380,male,63,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.15,16158
+270402208001,3,12,rural,1184,male,63,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,7,1.2,5946
+154631106002,0,0,rural,7670,male,71,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,7,1,23226
+244056201001,9,10,rural,11144,male,78,normal,single,4 Elementary School,without_chronic15,smoke_no15,no_drink15,7,1.05,1386
+184037213002,0,0,city,351240,male,61,normal,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,5,1,594
+275559222002,3,1,city,20780,male,60,normal,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_yes15,more_once_drink15,6,1,1386
+124099220001,14,9,city,11010,male,70,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,3.5,1.1,7260
+321659113002,4,4,rural,90212,male,71,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1,1386
+138202312001,17,6,rural,7280,male,61,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.25,6930
+207406123001,11,12,rural,2464,male,60,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.15,4266
+168231104001,3,0,rural,2968,male,70,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.25,1386
+058202204001,9,3,rural,42920,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,12,1,28770
+200104208002,11,8,city,58000,male,67,normal,married,7 Vocational School,with_chronic15,smoke_no15,more_once_drink15,4,1.65,1386
+138202106001,14,1,city,22200,male,60,normal,married,6 High School,with_chronic15,smoke_no15,more_once_drink15,10,1,22158
+141154117002,6,1,rural,18260,male,66,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,2,1.55,11466
+154058102002,0,0,city,29764,male,64,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,5,1,5838
+294099305002,5,9,rural,2750,male,60,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1.8,6990
+154058305001,14,6,rural,11040,male,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,1386
+154044306001,2,1,rural,3688,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,5,1.35,4158
+347763220001,18,17,rural,9716,male,61,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,8,1,22530
+056604112001,13,7,rural,936,male,70,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.2,5238
+074981105001,10,6,rural,8276,male,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,2.5,1.35,13200
+177402208001,11,8,rural,19280,male,64,normal,married,7 Vocational School,without_chronic15,smoke_yes15,no_drink15,6,1.05,1386
+321131230001,0,5,rural,50640,male,62,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1,526.5
+124099216001,20,18,rural,8906,male,62,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,3,1.15,
+280154123002,16,3,rural,10140,male,66,normal,single,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,5,1.4,3066
+056346327002,8,1,city,5420,male,77,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,4278
+295331317001,14,11,city,6856,male,76,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,5838
+056059226001,4,6,rural,8980,male,66,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,5,1,28770
+204028206001,6,3,city,32630,male,70,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6,1.1,5118
+204906318002,6,7,rural,10900,male,80,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.25,2346
+207406214001,3,2,rural,9460,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.15,2970
+296331215001,3,6,rural,5891,male,60,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,7,1,25546.5
+330131212002,3,6,rural,11880,male,73,normal,married,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,7,1.25,15786
+207428307002,9,12,rural,28400,male,76,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,2.05,1386
+138202101001,5,7,rural,7364,male,74,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,9,1.85,1806
+056604208001,2,6,rural,5300,male,75,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,5,1,1386
+135559208002,3,6,rural,1342,male,72,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,12,1.15,4986
+330102305002,15,11,rural,5350,male,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,10,1.05,23730
+324681311001,8,13,city,92580,male,60,normal,single,6 High School,without_chronic15,smoke_yes15,more_once_drink15,6,1,9786
+326346318001,10,1,rural,6080,male,75,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1.4,1386
+204906305001,12,2,rural,204680,male,74,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.1,2106
+211176211001,12,0,rural,1280,male,61,too thin,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,4,1,11466
+211176212001,10,4,rural,7740,male,64,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,6,1,1666.5
+320146123002,5,1,rural,3420,male,71,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,more_once_drink15,5,1,15330
+291676230002,6,3,rural,81720,male,69,normal,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,7.5,2.25,4158
+104004216001,3,0,city,25880,male,65,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_yes15,no_drink15,5,1,1386
+134902206002,3,18,rural,2704,male,70,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,9,1.3,9786
+262728122001,13,9,rural,7800,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.55,
+154044121002,0,0,rural,21400,male,82,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,less_once_drink15,6,1.05,16506
+212428329002,18,16,city,14135,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,7,1,1386
+060481214001,5,7,rural,17858,male,65,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.45,427.5
+291676304001,5,8,rural,7360,male,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1.2,15330
+326359117002,22,12,rural,7144,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.15,11866.5
+241116305001,6,3,city,13120,male,66,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,5,1,9198
+074004206002,10,6,city,24622,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,4,1,1014
+325554315001,9,4,city,14460,male,60,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,8,1,1686
+174643131001,21,22,rural,140624,male,72,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,7,1.85,18186
+144016313001,1,0,city,5476,male,73,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,7,1.4,4578
+291676203002,12,17,rural,21670,male,60,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.3,11358
+117489307002,3,3,rural,11160,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1.15,1806
+321131312002,2,6,rural,17440,male,68,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,6,1.15,3066
+072428302002,4,6,city,15000,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1,148.5
+138202125001,24,26,rural,12252,male,72,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,10.5,1.95,25546.5
+108259319001,9,8,rural,18500,male,63,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,5,1.5,6930
+280154214001,9,4,rural,13660,male,64,normal,married,5 Middle School,without_chronic15,smoke_no15,less_once_drink15,7.5,1.05,10606.5
+054054242002,10,10,city,2620,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1,20130
+270402117002,9,1,rural,6540,male,66,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.05,28770
+244604230002,8,8,rural,5820,male,66,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.2,1806
+330404207001,5,1,city,44040,male,62,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_yes15,no_drink15,7,1,4746
+166006222002,5,5,rural,15780,male,68,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,4,1.5,4158
+270402213001,3,0,rural,3800,male,69,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,579
+074981322002,15,13,rural,14800,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.15,
+288251309002,27,19,rural,6100,male,66,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.9,9786
+211176129002,4,3,rural,8468,male,61,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,4,1,8958
+034043328001,12,15,rural,1798,male,81,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.15,1386
+244676213001,17,13,rural,12260,male,66,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.3,23730
+174643101001,11,24,rural,3200,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,9,1.55,25998
+118276106002,7,3,rural,18168,male,63,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,10,1,4158
+285502209001,5,12,rural,12280,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,7.5,1.15,15330
+104004319002,4,0,city,2040,male,81,overweight,married,7 Vocational School,without_chronic15,smoke_yes15,more_once_drink15,8,1,2472
+244676330001,11,5,rural,20928,male,69,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,8,1.15,32130
+014643312001,11,3,rural,4920,male,72,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1,17010
+074981306002,8,8,city,15660,male,69,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1,3066
+211176317002,9,8,city,7260,male,63,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,5,1,1059
+118276112001,2,6,city,8900,male,75,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,7,1,6930
+324045217002,10,3,rural,5200,male,62,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,7,1,1386
+244676231001,3,8,rural,53090,male,66,too thin,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1.75,346.5
+261676324002,20,12,rural,32860,male,72,too thin,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,5,1.8,346.5
+325306106002,3,8,rural,8608,male,70,overweight,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,7,1,2880
+324078329001,6,8,city,50700,male,61,normal,married,5 Middle School,without_chronic15,smoke_no15,less_once_drink15,8,1.2,32130
+202454125002,3,0,rural,3428,male,80,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1,22186.5
+321116101002,9,1,city,17860,male,67,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.15,1386
+046746101001,7,16,rural,11900,male,69,normal,married,5 Middle School,without_chronic15,smoke_no15,less_once_drink15,4,1.2,1386
+155676302001,9,4,city,5500,male,73,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.2,3066
+154044210001,6,6,rural,6122.7998,male,68,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,5,1.25,346.5
+298245212002,4,3,rural,4960,male,76,overweight,married,7 Vocational School,with_chronic15,smoke_no15,more_once_drink15,6,1.15,
+281116224001,3,7,rural,15143,male,63,too thin,married,7 Vocational School,without_chronic15,smoke_no15,no_drink15,7,1,4638
+108206108001,14,9,rural,14520,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,5,1.55,3360
+297439118001,1,0,city,28080,male,61,overweight,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,6,1,1386
+056346109001,6,11,rural,8712,male,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,3,1,26586
+117489229001,8,5,rural,11890,male,63,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.2,1626
+108259310002,16,10,rural,2316,male,68,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,3,1.25,967.5
+296331221001,14,8,rural,1306,male,69,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.55,1386
+031106305002,6,3,rural,5515,male,67,normal,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,8,1,2586
+122490225001,5,8,rural,7820,male,62,too thin,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,8,1.2,12078
+056346102002,0,1,rural,6860,male,63,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,6,1,15918
+065546307002,12,6,rural,7820,male,71,too thin,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1.45,
+060481121001,10,11,rural,56800,male,69,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1,3066
+074002217002,0,1,rural,7940,male,61,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1.05,16800
+056059312001,18,3,rural,12580,male,69,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5,1.65,1386
+056059213001,11,5,rural,5140,male,67,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,5,1.3,21378
+345233212001,6,6,rural,6132,male,66,normal,single,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,4,1.1,18186
+321131108002,0,1,city,54436,male,60,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1,1446
+265359108002,9,16,rural,19160,male,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1,148.5
+270402105001,13,19,rural,920,male,72,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,3,1.25,12558
+345233118002,4,5,rural,12088,male,72,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.15,11766
+117489209002,12,11,rural,27340,male,68,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.2,1386
+324045112002,13,18,rural,1540,male,66,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1.05,9600
+212428324002,0,0,city,37740,male,64,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,6,1,
+297439212001,7,6,rural,9880,male,72,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1,1386
+280154310002,13,15,rural,22048,male,63,too thin,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,8,1,11118
+060481216001,9,4,rural,19040,male,65,normal,married,4 Elementary School,without_chronic15,smoke_yes15,less_once_drink15,7,1,5706
+265576104001,5,5,city,3916,male,72,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5,1,1386
+271806110001,19,15,rural,12640,male,63,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.25,28770
+112744122001,0,1,city,15160,male,61,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,8,1,1866
+324045331001,15,6,rural,8060,male,76,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,less_once_drink15,6,1.55,1386
+271806307002,13,17,rural,8040,male,65,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,17466
+244604307002,8,10,rural,20608,male,61,normal,married,6 High School,with_chronic15,smoke_no15,more_once_drink15,6,1.2,8880
+205304206002,4,0,city,21187,male,60,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1.05,9192
+274951108002,18,7,rural,14400,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1.4,10426.5
+205304311001,0,5,city,14728,male,83,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1.15,3066
+166006312001,4,2,rural,4700,male,66,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.7,346.5
+160104121002,0,0,city,24930,male,62,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1,14238
+324045114002,11,8,rural,13991,male,66,overweight,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,more_once_drink15,6,1.65,5386.5
+275559211001,4,4,city,22520,male,64,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,7,1,4158
+065546220001,6,6,rural,6120,male,60,normal,married,6 High School,with_chronic15,smoke_no15,more_once_drink15,8,1.15,1386
+034043315001,6,3,rural,7780,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,7,1.2,2826
+244604330001,1,8,rural,16355,male,69,too thin,single,2 Did not Finish Primary School,without_chronic15,smoke_yes15,less_once_drink15,4.5,1.05,9198
+268606304001,3,3,rural,16656,male,60,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,8,1,16986
+241116327002,6,8,city,60180,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.25,4158
+321659309002,7,0,rural,9116,male,62,overweight,married,6 High School,without_chronic15,smoke_no15,more_once_drink15,8,1,1386
+110131322002,0,14,rural,30528,male,69,overweight,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,8.5,1.15,346.5
+154628128001,3,18,rural,6916,male,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.05,4158
+204906310002,7,4,rural,4500,male,64,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,5,1,6426
+296006206001,13,4,rural,22266,male,66,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,7,1,12628.5
+056059109001,5,4,rural,15250,male,60,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5.5,1.05,17146.5
+010446120002,11,5,rural,2090,male,63,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,4,1.1,15438
+296081301001,0,10,rural,2992,male,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,8,1,20958
+010233316001,3,3,rural,36826,male,64,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,826.5
+285502308001,7,6,city,22245,male,70,overweight,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.15,6426
+118276316001,20,20,rural,5416,male,61,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,5,2.2,6186
+261676107002,10,10,rural,4830,male,79,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.2,1356
+292458121002,0,0,rural,2850,male,62,normal,married,6 High School,without_chronic15,smoke_yes15,no_drink15,8,1,
+266306331002,8,4,rural,31628,male,61,normal,single,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,5,1,7416
+275559305002,8,2,city,46560,male,66,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,15918
+075376114001,8,12,rural,18540,male,64,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,5,1.1,6078
+054054110002,3,3,rural,22220,male,66,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,5,1,13770
+060440102001,15,20,rural,1900,male,77,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,2.1500001,12558
+296081118001,3,4,rural,4410,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1,6930
+064604117001,6,3,city,27500,male,69,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,9306
+122490108002,5,4,rural,11440,male,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,less_once_drink15,8,1.05,594
+057633225001,9,5,rural,19400,male,63,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.4,6570
+154631224002,16,17,rural,7450,male,60,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.35,21120
+065546122002,9,8,rural,8940,male,66,too thin,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1.05,1779
+292458204001,5,5,rural,13360,male,75,normal,married,7 Vocational School,with_chronic15,smoke_no15,more_once_drink15,7,1,1386
+051606121001,11,11,rural,55180,male,65,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,less_once_drink15,4,1.7,1386
+075376229001,8,0,city,16180,male,75,overweight,single,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1,346.5
+280154220002,8,8,rural,2210,male,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7.5,2.7,148.5
+054054306002,7,1,rural,9136,male,74,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1.2,198
+056043218002,9,8,rural,3160,male,61,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5,1.5,13038
+338231207002,1,2,city,22000,male,72,normal,married,6 High School,with_chronic15,smoke_no15,no_drink15,6,1.05,4158
+324078308001,7,12,city,24100,male,68,normal,married,7 Vocational School,with_chronic15,smoke_no15,less_once_drink15,6,1.45,1782
+056302324002,2,4,rural,1404,male,79,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,6,1,5226
+056059217002,6,13,rural,26020,male,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,4,1.3,4800
+117489206001,7,14,rural,20200,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,9,1,10236
+074981106002,6,8,rural,8250,male,65,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,3,1.1,18186
+018206102002,9,4,rural,23820,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1,26586
+330102313001,2,0,rural,9224,male,77,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,8.5,1.1,2346
+105102134001,14,21,rural,4720,male,66,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,4,2.5999999,198
+160104106001,0,3,city,36786,male,68,normal,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,5.5,1.35,1386
+330102306001,6,6,rural,690,male,74,too thin,single,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1,1386
+174643123002,17,8,rural,3620,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1.1,1506
+194037338001,3,8,city,7240,male,75,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1.6,3360
+295331123002,16,6,rural,1060,male,74,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,2,1,16530
+295331213001,4,8,rural,5040,male,64,normal,married,7 Vocational School,with_chronic15,smoke_no15,more_once_drink15,7,1,
+046746104001,24,25,rural,14480,male,60,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,,1.4,5838
+064604121001,3,1,city,24300,male,75,overweight,single,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,4,1.15,1386
+075504212002,14,9,city,39380,male,73,normal,single,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,5,1,3066
+265576220002,1,0,city,13200,male,64,too thin,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1,13386
+296006303002,0,4,rural,2660,male,74,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,8,1,4158
+116006115001,12,9,rural,10600,male,64,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.25,25200
+325554121002,2,4,rural,89680,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1,9786
+296006311002,8,12,rural,3207,male,77,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,more_once_drink15,4,1,29358
+074004111002,12,17,city,21698,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1.25,5838
+345233227001,9,1,rural,14574,male,73,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,4,1,5322
+105381325001,0,0,rural,2300,male,61,normal,single,6 High School,with_chronic15,smoke_yes15,more_once_drink15,6,1.15,11970
+330131103001,3,5,rural,2272,male,71,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.05,9600
+010451227001,7,12,rural,6860,male,62,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,6,1,20958
+154631124002,4,9,rural,2960,male,64,normal,single,6 High School,with_chronic15,smoke_yes15,more_once_drink15,8,1,15330
+270402239001,4,9,rural,11260,male,66,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,10,1.25,
+280154329001,15,22,rural,9360,male,67,too thin,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1.6,7038
+330131201002,12,13,rural,6251,male,61,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5,1.3,29358
+078233216002,11,16,rural,18306,male,67,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5,1.2,11466
+010233212001,13,29,rural,16930,male,69,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,4,1.65,25998
+294099122002,0,4,rural,54530,male,64,normal,married,6 High School,without_chronic15,smoke_yes15,more_once_drink15,9,1,3186
+265576303001,15,9,rural,1224,male,79,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,3,1.7,19278
+111154208001,1,0,rural,30560,male,70,overweight,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,more_once_drink15,8,1.15,12106.5
+296331331002,0,2,rural,5024,male,61,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.1,4158
+057457224002,6,3,rural,9088,male,75,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,12,1.25,766.5
+174643111001,13,11,rural,2160,male,70,too thin,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5,1.25,148.5
+108259326001,6,5,city,64664,male,67,overweight,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,4,1.6,13200
+135559128001,5,0,rural,22604,male,73,too thin,single,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,6,1.1,1926
+094004119002,0,3,city,1960,male,81,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,6,1,
+244676111002,2,5,rural,10844,male,73,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,8,1,1566
+268606101001,1,5,rural,13010,male,68,too thin,married,7 Vocational School,with_chronic15,smoke_no15,more_once_drink15,8,1,3946.5
+056604304002,0,1,rural,7560,male,64,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1,1386
+056604322001,4,6,rural,3990,male,76,too thin,single,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,5,1,1386
+202454126002,0,0,rural,4496,male,69,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1,16800
+297439332002,3,8,rural,2530,male,74,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,4.5,1.4,5118
+124099312001,10,15,city,61632,male,79,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,3,1.5,1386
+298245214002,0,0,city,9820,male,63,overweight,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,6,1,3816
+166006108001,4,4,rural,8060,male,84,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,less_once_drink15,3,1.5,346.5
+175531212001,9,11,rural,5748,male,66,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,4,1.2,8796
+244604329001,8,2,rural,3760,male,71,normal,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,4,1.1,
+056302124002,10,5,rural,5248,male,78,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1.2,5838
+320146113001,3,0,rural,13000,male,60,overweight,single,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1.2,7518
+320146327001,4,5,rural,11615,male,64,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1,11358
+324045314001,8,23,rural,25800,male,71,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.45,6228
+265359127002,3,6,rural,14500,male,72,overweight,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,6,2.25,4158
+324681126002,19,25,rural,17460,male,72,too thin,married,6 High School,with_chronic15,smoke_yes15,no_drink15,8,1.8,4158
+321116112002,11,8,city,20536,male,68,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5,1,1386
+174643207002,15,11,rural,4104,male,66,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,7,1.25,22638
+057633309002,3,10,rural,27420,male,71,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1.35,1386
+211176323001,9,11,rural,1022,male,77,too thin,single,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1.65,99
+014643219001,2,0,city,18040,male,68,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6,1,3066
+058202308002,11,16,rural,42300,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,6,1.1,7278
+297439115001,0,0,city,31860,male,62,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,7,1,1386
+057457120002,2,1,rural,8840,male,71,normal,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,10,1,3786
+242702316001,2,1,rural,164472,male,66,too thin,single,6 High School,with_chronic15,smoke_yes15,no_drink15,6,1.15,1866
+175531201002,8,7,rural,4744,male,64,normal,single,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,7,1.15,6930
+288251325002,12,21,rural,5110,male,71,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1.35,15330
+334631115001,4,9,rural,8520,male,65,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,5,1,18826.5
+057457117001,13,13,rural,3680,male,73,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,8,1.2,4506
+271806308002,15,7,rural,8880,male,72,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.9,
+135559118001,6,0,rural,29910,male,68,too thin,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,9,1.15,5358
+320146104002,6,6,rural,1620,male,69,overweight,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1,1386
+321131105002,1,0,city,18440,male,67,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,6,1,4746
+056043316002,6,13,rural,6150,male,67,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,1.25,20958
+281104106001,3,2,city,22740,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,3798
+261676126001,3,3,rural,4412,male,62,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,7,1,2826
+321131214001,3,0,rural,5048,male,74,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,7,1.05,1386
+345233213002,6,6,rural,6300,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.4,4038
+057457326102,12,15,rural,50952,male,90,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,3,1.8,3607.5
+212428112001,10,0,city,18840,male,61,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1,3066
+056346216001,3,4,rural,7640,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,9,1,25410
+034676220001,15,12,rural,17120,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,11,1.8,2826
+010446206001,20,10,rural,12400,male,62,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,1386
+321659202001,8,1,city,43000,male,75,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.15,1386
+074004208001,5,5,city,10760,male,64,overweight,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1.15,346.5
+321659219001,6,5,city,6000,male,75,normal,married,8 Two-/Three-Year College/Associate Degree,without_chronic15,smoke_no15,less_once_drink15,8,1.1,6426
+078233328002,4,8,rural,27392,male,80,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,5,1.05,766.5
+274951130001,3,4,rural,34220,male,71,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,32130
+294028111002,3,3,city,121320,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5,1.15,4158
+345233308001,14,12,rural,6002,male,64,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1,49.5
+060440327001,21,11,rural,7380,male,67,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.25,247.5
+168231124002,6,4,rural,7990,male,65,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,8,1.05,1386
+294099316002,3,0,rural,1424,male,71,too thin,married,6 High School,without_chronic15,smoke_no15,more_once_drink15,8,1.05,346.5
+204906212001,10,6,rural,4194,male,84,normal,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5.5,1.2,1386
+057457220002,9,15,rural,13540,male,64,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1,3066
+324078301001,5,2,city,147360,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.15,1386
+168231302002,2,2,city,9444,male,73,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,4,1,1386
+117489327001,3,7,rural,3210,male,65,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.2,6318
+174643126001,6,6,rural,8348,male,63,normal,single,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,7,1,4158
+266306315001,9,6,rural,9690,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.4,23730
+060440317001,3,11,city,3300,male,62,normal,single,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5,2.2,346.5
+074002312002,23,19,rural,31780,male,79,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,9,1.95,1386
+171159126001,4,4,rural,12720,male,60,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,8,1,198
+056604220001,0,0,rural,15440,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,10,1,16158
+285502113001,18,7,rural,17620,male,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,5,1.3,
+325554112002,10,6,rural,3060,male,75,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,10,2.05,
+154676214002,13,4,rural,24600,male,61,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1.15,15786
+281104206002,0,0,city,17120,male,80,normal,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_no15,no_drink15,6,1.25,1386
+145528106001,4,10,city,8700,male,66,normal,married,7 Vocational School,with_chronic15,smoke_yes15,more_once_drink15,5,1.05,2826
+325554215002,16,4,rural,41800,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.35,2826
+296006210002,6,6,rural,4540,male,63,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.05,17394
+212428311002,0,3,city,11340,male,63,too thin,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,8,1,1386
+265576208001,5,3,rural,17520,male,75,too thin,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,6.5,1.25,618
+242702129002,22,8,rural,10550,male,73,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,more_once_drink15,5,1.45,4158
+105102136002,8,4,rural,7860,male,61,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,7,1,4158
+177402124002,11,5,rural,18970,male,66,overweight,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,7,1,346.5
+056043211002,14,3,rural,17132,male,60,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.05,9198
+347763224002,2,2,rural,3200,male,77,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,3,1,8370
+244604316002,0,1,rural,3770,male,70,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,20958
+010446318001,18,9,rural,14300,male,72,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,10,1.15,
+242702130001,6,13,rural,9780,male,70,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,3,1.75,396
+330102210002,0,4,rural,31820,male,72,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,3,1.45,1386
+321131216001,0,4,city,8640,male,72,too thin,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1,1386
+244676222001,7,9,rural,8640,male,74,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,466.5
+060440222001,0,3,rural,6508,male,68,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,8,1,7350
+244676103001,17,8,rural,3890,male,66,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,10,1,5386.5
+154676115001,6,12,rural,10256,male,72,too thin,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,8,1.05,26586
+010104125002,0,3,rural,5824,male,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,less_once_drink15,7,1,20958
+292458105001,1,10,city,71880,male,86,normal,single,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,5,1,4398
+330131116001,4,11,rural,14796,male,63,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.1,25386
+291676125002,9,9,rural,82538,male,66,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,3786
+207428220002,17,4,rural,4180,male,84,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,5,1.15,1386
+330131320002,13,9,rural,48540,male,60,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1,18826.5
+110131309001,20,0,rural,53400,male,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1,15330
+155676104002,0,9,rural,1352,male,69,too thin,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,5,1,826.5
+166006315001,20,5,rural,1300,male,64,normal,single,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,9,1.3,198
+326359122001,5,4,rural,1880,male,71,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,4,1,6030
+174643229001,4,8,rural,68,male,61,normal,single,5 Middle School,without_chronic15,smoke_yes15,no_drink15,8,1.15,4158
+054054311001,3,5,rural,8472,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,8746.5
+325306319002,20,9,rural,6164,male,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,8,1.35,3706.5
+054249202002,11,6,rural,2432,male,70,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,7,1,12558
+030476311002,4,17,rural,7420,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,6,1,6930
+266059303001,7,14,rural,1952,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,2.05,5838
+297439207001,13,7,rural,9620,male,79,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1.8,1386
+112744308002,3,6,rural,7272,male,71,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1,5166
+064604203002,5,1,city,8430,male,80,normal,married,7 Vocational School,with_chronic15,smoke_yes15,more_once_drink15,6,1,2106
+162431201002,21,15,rural,6600,male,64,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,4,1.5,10228.5
+298631220002,8,5,rural,1410,male,74,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,9,1,346.5
+104004114002,3,19,city,736,male,78,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,3,2,1386
+158278112002,13,5,rural,7480,male,62,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,16770
+345233230002,0,0,rural,2760,male,71,normal,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1,2346
+010104328001,7,7,rural,18160,male,72,normal,single,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,5,1,346.5
+134902110001,5,12,rural,43480,male,71,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,8,1.05,2754
+108259105001,1,1,rural,16900,male,64,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,8746.5
+056043324001,14,16,city,24916,male,70,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.6,1386
+347763205001,4,0,rural,2980,male,74,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,less_once_drink15,6,1,5838
+158231315002,9,3,rural,14080,male,65,normal,married,6 High School,with_chronic15,smoke_yes15,no_drink15,7,1,9786
+212428325002,3,7,city,16469,male,64,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,7,1.15,2026.5
+057633222001,23,24,rural,42050,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,2.75,5386.5
+060481217002,12,11,rural,6940,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,7,1,1866
+014051116002,5,10,rural,5392,male,64,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,8,1.3,1752
+268606126002,0,3,rural,3800,male,75,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,
+110131321001,3,7,rural,10800,male,62,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.1,29358
+145528311002,5,8,city,14840,male,63,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,6,1.15,12558
+266059301001,22,15,rural,4128,male,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,9,1.15,13146
+057457208001,6,9,rural,21150,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.15,26586
+281116115002,7,5,rural,5100,male,72,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.2,15330
+060481229002,9,1,rural,3560,male,67,normal,married,6 High School,without_chronic15,smoke_no15,more_once_drink15,7,1.05,32130
+321659320001,7,4,rural,15250,male,60,normal,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,8,1,4158
+242702118001,11,15,rural,200780,male,67,too thin,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1.2,13386
+112744203002,1,6,rural,26400,male,64,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,8,1,12558
+168231105002,4,6,rural,26200,male,67,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,8,1.15,18186
+018206305001,8,6,rural,3900,male,67,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1.45,15330
+142403221001,5,2,city,15650,male,63,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,7.5,1.25,1566
+054054201002,0,7,rural,13924,male,77,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,7,1.2,4158
+010446112002,1,3,rural,1960,male,71,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,7.5,1,17838
+030476118002,9,3,rural,11880,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1.2,
+171159118002,14,10,rural,9760,male,61,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.75,1782
+270402223001,5,7,rural,4712,male,64,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,4,1,9786
+075376304001,14,12,city,49040,male,66,normal,married,6 High School,with_chronic15,smoke_no15,more_once_drink15,5,1.25,247.5
+046746226002,9,5,rural,7204,male,68,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,less_once_drink15,8.5,1.25,7386
+171159105001,7,4,rural,5260,male,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,7,1.3,1386
+058659112001,3,3,rural,12680,male,63,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,9.5,1,1806
+075376225002,9,14,rural,5540,male,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5,1.8,1386
+056043228001,16,10,rural,4561.7998,male,72,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,6,1.25,20130
+058659105001,13,4,rural,7220,male,65,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,10,1,7770
+135559211001,18,19,city,9920,male,62,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,8,1.45,3066
+046746229002,11,13,rural,7300,male,64,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,6,1.35,12558
+296081315001,4,4,rural,920,male,78,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,5.5,1.2,1386
+345233106002,16,19,rural,2200,male,60,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.5,
+204906124001,5,7,rural,5260,male,86,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5,1.45,594
+014051204002,0,3,rural,22740,male,60,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,25410
+034043106001,4,13,rural,12132,male,63,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,10,1,14970
+014031217001,1,4,rural,15170,male,60,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.05,10228.5
+034043201001,3,6,rural,1620,male,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1,3066
+135559101002,11,7,rural,3628,male,66,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,less_once_drink15,8,1,19146
+034043218001,9,7,rural,13896,male,65,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,4,1.1,1386
+108206306002,10,8,rural,14400,male,67,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,5,1.3,1386
+296331220001,8,12,rural,7956,male,68,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.3,1446
+171159210001,3,7,rural,28160,male,72,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,2,16158
+161159203002,2,3,rural,12870,male,71,too thin,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,7,1,10158
+010104105002,16,16,rural,4860,male,72,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1.4,18930
+056604102002,10,6,rural,5170,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,10,1.05,23730
+034676120002,8,8,rural,9684,male,62,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,8,1,20958
+262728202002,3,13,rural,20740,male,66,overweight,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,3,1,5040
+295331201001,7,5,rural,2060,male,60,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.4,9786
+074004204001,6,7,city,7600,male,69,overweight,married,7 Vocational School,with_chronic15,smoke_yes15,more_once_drink15,6,1.2,1386
+294028325002,1,8,city,34600,male,74,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1,2826
+175531111002,3,2,city,26280,male,66,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1,10200
+072428320001,1,7,city,14720,male,62,too thin,single,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,7,1.15,
+065546328002,0,4,rural,5640,male,61,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1,8034
+281116119002,6,1,rural,3220,male,60,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,4,1,9576
+110131218002,4,12,rural,94850,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,10080
+046746120001,15,3,rural,6680,male,64,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,12,1.05,4158
+158231301001,15,3,rural,10820,male,74,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,7,1.15,4158
+324681321002,9,0,city,11640,male,73,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.1,7650
+031106213001,3,3,rural,22378,male,74,too thin,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.05,17626.5
+207406125002,12,12,rural,20130,male,64,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,7.5,1.35,8586
+177402311002,11,13,rural,7900,male,70,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6.5,1.4,3546
+114604301001,14,9,rural,6690,male,67,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.35,7314
+211176318002,13,5,rural,14980,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.75,4158
+296006317002,3,5,rural,4172,male,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,0,1.05,21840
+330102218001,10,4,rural,12300,male,73,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.2,1386
+298245131001,4,3,rural,3552,male,60,normal,married,6 High School,with_chronic15,smoke_yes15,no_drink15,7,1.05,1386
+051606206001,20,25,rural,10650,male,65,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,4,1.7,22638
+320146216001,14,18,rural,8920,male,75,normal,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1,
+051606208002,11,7,rural,11100,male,68,too thin,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1,2826
+211154314002,1,1,rural,31100,male,61,normal,married,6 High School,with_chronic15,smoke_no15,no_drink15,5,1,19038
+010451107001,8,10,rural,4040,male,64,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,8,1,12558
+330131108001,18,3,rural,12200,male,61,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.05,99
+291676211001,18,21,rural,19812,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.5,23730
+295331115001,19,11,city,2227.2,male,60,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,3.5,2.2,396
+326346101002,8,4,rural,7960,male,70,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.05,9786
+281116211002,6,1,rural,6560,male,63,normal,married,6 High School,with_chronic15,smoke_yes15,no_drink15,7,1,18480
+321659220002,6,0,city,12490,male,73,normal,married,5 Middle School,without_chronic15,smoke_no15,less_once_drink15,7.5,1,6426
+244604320002,7,0,rural,21960,male,77,too thin,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,1386
+184037312001,0,0,city,32500,male,71,overweight,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_no15,more_once_drink15,9,1,2586
+296081210001,3,0,rural,6704,male,78,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,9,1.5,6930
+168231312002,4,3,rural,24590,male,77,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.2,990
+266059224002,3,1,rural,4492,male,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.25,10746
+010451214002,20,15,rural,16520,male,63,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.85,6426
+064033223002,3,5,rural,1780,male,61,overweight,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,1.1,3546
+064033218001,0,6,rural,4580,male,60,normal,married,6 High School,with_chronic15,smoke_yes15,no_drink15,7,1,9786
+275559311001,7,0,city,8966,male,65,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1.15,9306
+060481230001,0,1,rural,2000,male,68,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,7,1,12558
+064028114002,1,2,city,33600,male,63,normal,married,7 Vocational School,without_chronic15,smoke_no15,more_once_drink15,4,1.2,1386
+334631228001,4,13,rural,1480,male,62,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,4,1,6078
+010233301002,6,4,rural,18580,male,62,normal,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,3,1,9786
+324045324002,2,0,rural,21660,male,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,8,1.2,6318
+280154120001,16,5,rural,15500,male,65,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,5,1.05,21336
+060481301002,5,1,rural,10720,male,66,overweight,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,8,1,6426
+054054206002,8,8,rural,1540,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,7,1,3246
+296006215001,3,6,rural,2780,male,65,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,3,1.2,17566.5
+298245210001,2,5,rural,10160,male,62,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,8,1,3690
+294099209001,9,0,rural,7650,male,61,overweight,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6.5,1,12666
+244604310002,8,0,rural,49066,male,80,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.35,346.5
+010446313001,6,17,rural,7516,male,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,5,1.2,21570
+010233306002,3,4,rural,7200,male,68,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,9,1,7758
+010446225001,7,4,rural,1640,male,73,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.05,19866
+296331313002,2,15,city,2425,male,63,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,4,1.2,
+207406306002,4,3,city,26500,male,68,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1,3546
+054249204002,5,8,rural,14320,male,63,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1,4386
+054249207001,25,15,rural,14312,male,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,4,1.2,23730
+134902308001,12,18,rural,29540,male,65,overweight,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,2,2.0999999,346.5
+297439304001,13,2,rural,4380,male,81,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,5,1,7350
+089676121001,3,10,rural,6660,male,68,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,3,1.1,594
+212428331002,13,4,rural,13220,male,62,normal,married,7 Vocational School,with_chronic15,smoke_yes15,less_once_drink15,8,1,11970
+056043113001,0,6,rural,29990,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1,6426
+118276107002,0,3,city,8240,male,64,normal,married,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,8,1,2026.5
+056059222002,8,4,rural,7460,male,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,28770
+141154322001,5,2,rural,10090,male,63,normal,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,6,1.1,
+194037324001,3,3,rural,23100,male,61,overweight,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,8,1.6,6826.5
+089676209001,4,11,city,28020,male,75,overweight,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,1.75,2670
+056043315002,6,5,rural,14020,male,63,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1,23730
+330102201002,13,10,rural,10856,male,65,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,9,1.65,1386
+056059107001,4,17,rural,12620,male,63,normal,single,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8,1,8746.5
+154628309002,5,6,rural,6632,male,66,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,3,1.1,5386.5
+294099104002,3,1,rural,158080,male,68,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,7,1,1386
+212428108002,6,0,city,5880,male,63,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1,
+122490329001,11,2,city,9740,male,70,overweight,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,6,1,10266
+134902113002,1,0,rural,4560,male,70,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1,4158
+108206224001,4,3,rural,556,male,63,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,less_once_drink15,6.5,1.1,25410
+056059118001,8,8,city,21892,male,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5,1.3,3318
+334631211001,1,1,rural,6300,male,71,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7.5,1,3066
+295331322001,1,6,city,17700,male,61,normal,married,6 High School,without_chronic15,smoke_yes15,less_once_drink15,6,1,4578
+014051225002,4,6,rural,16852,male,70,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,1,15330
+112744315001,2,4,rural,12800,male,68,too thin,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,8.5,1,6930
+265576120002,19,11,rural,7730,male,71,overweight,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,7,1.1,17146.5
+135559105002,11,17,rural,892,male,74,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,11,1.55,25200
+014031115001,8,4,city,37400,male,62,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,3546
+010233120001,8,13,rural,12850,male,60,normal,single,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1,13146
+294099219001,11,3,rural,29340,male,70,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,5.5,1.05,19278
+010206219001,18,18,rural,24460,male,77,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,7,1.25,4158
+056043222002,7,9,rural,12120,male,72,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,4,1,12930
+010104127002,11,16,rural,13040,male,66,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5,1,4158
+058202104001,7,8,city,35530,male,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,3,1.05,1806
+110131127002,8,6,rural,18200,male,69,normal,married,4 Elementary School,without_chronic15,smoke_yes15,less_once_drink15,7,1,
+324681301002,6,9,city,19660,male,64,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,7.5,1,8610
+141154224001,3,1,city,36600,male,60,overweight,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,4,1.3,6426
+054054123001,7,4,rural,17840,male,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.1,24930
+158231321001,3,4,rural,61880,male,61,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.15,18186
+060440201001,6,3,rural,3960,male,63,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1.55,9786
+338231105001,6,2,city,12980,male,71,normal,married,6 High School,with_chronic15,smoke_no15,no_drink15,7,1.05,1866
+266059221001,3,3,rural,8050,male,68,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,10,1.2,1386
+089676203002,11,21,city,21610,male,61,overweight,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.25,1566
+031106319001,12,18,rural,14930,male,61,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,2.5,1,7200
+212428206002,13,8,city,51300,male,67,overweight,married,6 High School,with_chronic15,smoke_yes15,more_once_drink15,7,1.2,1386
+075376207001,27,16,rural,13580,male,65,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.25,9576
+266059308002,4,11,rural,4374,male,73,overweight,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_yes15,no_drink15,5,1.35,13146
+105381111002,20,3,city,41100,male,65,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,7,1,6426
+064604318002,1,2,city,51200,male,79,normal,married,7 Vocational School,with_chronic15,smoke_no15,less_once_drink15,7,1,2274
+320146307001,18,5,rural,8060,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.05,15330
+142403114002,26,21,city,5180,male,66,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,7,1.95,1686
+330102205001,3,10,rural,7576,male,66,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,9,1.1,1386
+014031215001,13,2,city,42946,male,83,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1,3066
+056604216002,7,5,rural,960,male,62,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,8,1.05,7758
+202454306002,20,6,rural,12920,male,71,too thin,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.15,
+145528102002,4,6,city,11410,male,78,normal,married,7 Vocational School,with_chronic15,smoke_yes15,less_once_drink15,7,1.2,3066
+330131109001,15,4,rural,4304,male,82,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,4,1.15,10530
+108206132001,6,11,rural,3200,male,67,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,more_once_drink15,5,1,11970
+054249310002,0,0,rural,56300,male,60,too thin,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,7,1,3226.5
+105381225002,5,4,rural,24360,male,69,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,6,1,19866
+160104113002,7,5,city,17000,male,68,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,7,1,4638
+347763209002,11,8,rural,3900,male,66,normal,married,3 Sishu/Home School,without_chronic15,smoke_no15,no_drink15,5,1.95,16506
+244604222002,3,1,rural,11840,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1,9198
+294099313002,14,17,rural,2360,male,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,3,1.4,21678
+145528208002,14,6,city,7060,male,63,overweight,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,7,1.45,5340
+347763107002,6,6,rural,29200,male,66,overweight,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1.1,7386
+204906206002,8,3,rural,34914,male,64,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,4.5,1.15,14238
+114604212001,5,9,city,2300,male,80,normal,married,3 Sishu/Home School,without_chronic15,smoke_yes15,more_once_drink15,5,1,1386
+291676113001,11,6,rural,13336,male,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,9,1.8,1386
+051606107001,0,0,rural,9060,male,72,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6,1,22638
+298245215001,5,2,city,38920,male,74,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,7,1.15,2274
+114604303001,3,4,rural,10080,male,75,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,6,1,8610
+117489315002,1,3,rural,37170,male,60,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1,23226
+324045302002,13,5,rural,4312,male,79,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.1,5508
+265359316001,12,12,rural,30600,male,73,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,less_once_drink15,9,1,14238
+194037214002,3,6,city,8800,male,69,overweight,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_no15,more_once_drink15,6.5,1.25,148.5
+114604106001,7,1,city,16360,male,79,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.05,346.5
+054054120002,3,2,rural,9058,male,62,normal,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,4,1.2,13146
+030476212001,6,12,city,15272,male,63,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,more_once_drink15,4.5,1.2,11970
+261676103001,15,5,rural,9660,male,65,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,4,1.65,18690
+010233205001,8,6,rural,8160,male,62,normal,single,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,6,1.15,18792
+330404311001,10,8,rural,10252,male,70,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,6,1,15330
+124099305002,0,14,city,8420,male,63,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.3,3192
+174643128001,0,2,rural,9600,male,62,too thin,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,10,1.15,15918
+030476107001,4,3,rural,14480,male,63,normal,single,5 Middle School,without_chronic15,smoke_yes15,no_drink15,6,1,1386
+122490215002,17,10,rural,4120,male,69,normal,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.1,21988.5
+211176122001,6,3,rural,5020,male,61,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,less_once_drink15,5.5,1,
+336059106002,1,13,rural,20390,male,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,4,1.25,16506
+054054332001,2,3,rural,31600,male,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1,1386
+065546116002,7,2,rural,7400,male,74,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.35,12558
+010446207001,19,7,rural,12080,male,70,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1,1386
+046746308002,6,14,rural,14348,male,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,less_once_drink15,1,2.0999999,29358
+241116111002,10,17,city,25600,male,60,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.35,6426
+161159121001,14,4,rural,4256,male,63,normal,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6.5,1.35,7758
+075376212002,19,22,rural,8980,male,66,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,5,1.15,22038
+060440325001,13,3,rural,24660,male,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1.2,4518
+330102213001,5,7,rural,8700,male,75,too thin,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1.05,6876
+338231112002,11,3,city,30360,male,73,normal,married,9 Four-Year College/Bachelor’s Degree,without_chronic15,smoke_no15,no_drink15,5,1.1,1386
+194037311002,2,1,rural,18280,male,63,normal,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,6,1,
+141154209001,1,3,city,22658,male,67,overweight,married,7 Vocational School,with_chronic15,smoke_yes15,more_once_drink15,6,1.15,5838
+326359123001,5,18,rural,12140,male,61,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,more_once_drink15,3,1.05,5838
+058202101001,3,1,city,9480,male,77,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,6,1.15,3066
+168231206002,3,16,rural,7180,male,63,overweight,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,3,1.05,4266
+104004304001,12,0,city,30000,male,83,too thin,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,8.5,1,5838
+054054205002,1,3,rural,1600,male,75,normal,married,7 Vocational School,with_chronic15,smoke_yes15,no_drink15,4,1,3066
+298631307001,15,12,city,8736,male,66,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1.2,6426
+321659324002,3,6,rural,15520,male,61,normal,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,6,1,
+166006221002,3,3,rural,9840,male,66,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,7,1,15330
+175531118002,4,0,city,11600,male,75,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.55,4158
+334631301001,1,4,city,16100,male,64,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,7,1.1,8610
+244604140001,4,5,city,132028,male,70,overweight,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1.15,1386
+135559107001,5,4,rural,9300,male,65,normal,married,4 Elementary School,without_chronic15,smoke_yes15,less_once_drink15,7.5,1,5706
+174643226002,5,8,rural,1776,male,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.35,23730
+141154301001,9,5,rural,6340,male,62,normal,married,6 High School,with_chronic15,smoke_no15,more_once_drink15,7,1.1,7272
+010233104001,4,2,rural,2960,male,71,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6,1,16506
+010233216002,0,0,rural,5180,male,70,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,9,1,23940
+296331118002,11,11,rural,17980,male,61,overweight,married,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,7.5,1,1386
+261676211001,3,3,city,4230,male,65,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1,9198
+321659101002,9,6,rural,30650,male,61,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,2.2,16770
+078233311002,13,5,rural,3180,male,79,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,5,1,346.5
+324681129001,5,7,city,10460,male,61,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5.5,1,1386
+056059315002,5,11,rural,17957,male,72,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.4,25998
+111154222001,0,2,rural,4000,male,62,normal,married,5 Middle School,without_chronic15,smoke_yes15,more_once_drink15,8.5,1.7,594
+014643308002,4,8,rural,10530,male,67,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,10,1.35,6426
+270402304001,10,7,rural,4368,male,65,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.05,25998
+280154208001,3,12,rural,105740,male,71,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1.05,9198
+207406201001,6,6,rural,5852,male,85,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.3,1386
+281116313001,8,6,city,15856,male,74,normal,married,4 Elementary School,with_chronic15,smoke_yes15,less_once_drink15,7,1.1,1386
+030476220002,3,6,city,58300,male,69,normal,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1,1386
+321131115001,5,3,city,42100,male,68,overweight,single,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,6,1.6,1386
+018206214002,6,8,rural,471,male,79,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,5,1,4158
+153859301002,14,4,rural,14080,male,67,too thin,married,5 Middle School,with_chronic15,smoke_yes15,more_once_drink15,6,1,5386.5
+094004303001,3,1,city,91230,male,76,normal,married,6 High School,with_chronic15,smoke_no15,less_once_drink15,5,1.1,1066.5
+324045309002,5,2,rural,4040,male,63,normal,married,5 Middle School,without_chronic15,smoke_no15,more_once_drink15,6,1,3672
+056059112001,3,9,rural,1517,male,68,normal,single,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,5,1,12678
+141154105001,3,16,rural,34940,male,66,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.35,12558
+010446109001,0,3,rural,5140,male,70,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,8,1.2,2514
+265576111002,6,3,rural,24900,male,63,overweight,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,8,1,23226
+211154215001,0,0,city,29680,male,70,normal,married,7 Vocational School,without_chronic15,smoke_no15,no_drink15,7,1,1386
+056302126001,7,5,rural,4360,male,68,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,7,1.05,3066
+155676118002,9,8,rural,7117,male,64,too thin,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,10,1.1,28770
+054054320001,19,2,rural,8360,male,61,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,8,1,5838
+116006208001,5,5,rural,13962,male,72,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.1,21750
+118276320002,6,10,rural,12260,male,62,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1.05,346.5
+105381216002,9,6,rural,16980,male,64,normal,married,5 Middle School,with_chronic15,smoke_yes15,less_once_drink15,10,1.1,9090
+325554227001,3,3,rural,31744,male,72,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_yes15,more_once_drink15,5,1.15,1386
+296006308001,16,2,rural,4092,male,64,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.55,18426
+326359310001,23,12,rural,18580,male,74,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,9,1.2,9588
+014031306002,11,10,city,184580,male,79,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1,4578
+296331315001,5,8,rural,62332,male,61,normal,married,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,8,1,1386
+291676207002,6,17,rural,640,male,68,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,more_once_drink15,6.5,1.5,19866
+122490208001,17,21,rural,17174,female,62,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.25,4158
+010233303001,6,6,rural,10962,female,67,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1,6346.5
+334631206002,10,6,rural,5710,female,60,too thin,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.1,15570
+297439327001,10,1,rural,5366,female,68,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.1,6594
+296006222001,18,8,rural,1016,female,61,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,8,1,16800
+211176123002,8,3,city,4300,female,70,too thin,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,5,1.05,367.5
+334002313002,22,8,rural,3280,female,64,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,3,1.35,6426
+056346304001,7,8,city,12980,female,76,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.05,2026.5
+010104123001,11,27,rural,0,female,68,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,1.5,2.0999999,15330
+320146317001,0,2,rural,1850,female,64,too thin,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1,
+321116310001,3,0,city,2260,female,77,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.45,792
+330131111002,23,22,rural,9300,female,64,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,5.5,1.45,4158
+141154119001,17,18,rural,892,female,72,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.85,678
+326359303001,25,25,rural,6220,female,60,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,2,1.4,9330
+072428312001,13,9,city,6000,female,79,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.6,4158
+281116216001,11,17,rural,3172,female,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.3,14958
+285502131001,16,6,rural,1500,female,73,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.35,16506
+298245219002,3,6,city,1540,female,67,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.4,
+010104326001,28,26,rural,5120,female,66,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.3,4986
+058659202002,11,15,city,33100,female,72,overweight,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.2,1626
+122490325002,4,4,city,2700,female,63,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.05,4578
+138202317001,13,12,rural,3760,female,71,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,11,1.85,3066
+078233305001,11,15,rural,8200,female,64,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,,1.65,4398
+325554306002,6,7,city,16420,female,60,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1.2,
+010104327002,3,15,rural,74150,female,67,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.1,2586
+345233305001,1,3,city,52898,female,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1.15,16506
+161159105001,14,3,rural,9000,female,60,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,7,1.15,3066
+138202327001,10,21,rural,3748,female,72,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.45,1902
+320146102001,3,12,rural,176480,female,63,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,less_once_drink15,8,1,1386
+171159222001,22,6,rural,1586,female,65,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.5,2646
+174643309002,6,8,city,14588,female,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.15,1806
+118276315002,10,15,rural,5964,female,71,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.15,16158
+060481316001,6,9,rural,4710,female,66,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1,6426
+320146116001,10,16,rural,1240,female,68,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,0,1.6,1386
+161159307001,7,3,city,4037,female,78,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1,4578
+078233211001,15,22,rural,12110,female,80,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,2.5,4158
+010446322001,28,26,rural,400,female,74,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,2.05,198
+174643109001,15,24,rural,5050,female,74,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,2,1.35,5838
+108259329001,13,15,city,11148,female,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.95,1386
+184037206002,9,0,city,9508,female,76,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.15,6930
+089676320002,9,7,city,16000,female,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,586.5
+202454220001,7,9,rural,123508,female,80,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.25,5386.5
+268606307001,6,15,rural,2880,female,69,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.25,5838
+158231304001,7,2,rural,9100,female,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,5,1,22638
+280154107002,9,20,rural,7620,female,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,3,1.55,
+034043221001,1,6,rural,3982,female,61,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.05,3786
+296006321002,9,7,rural,1710,female,66,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1.3,1386
+142403127001,3,4,city,4740,female,79,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,7,1.05,5838
+291676117001,12,14,rural,10008,female,68,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,5,1,22740
+292458101001,5,7,city,5560,female,66,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,11,1.15,1992
+074057206002,6,8,city,7040,female,72,normal,married,4 Elementary School,without_chronic15,smoke_no15,less_once_drink15,7,1,1386
+268606122002,8,11,rural,3530,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.25,1860
+010104307002,21,13,rural,10400,female,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.25,32130
+330131110001,17,18,rural,10600,female,64,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,1.4,2826
+057457104001,19,9,rural,13300,female,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.15,24150
+336059115001,2,11,rural,5740,female,60,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1,17220
+135559110001,18,10,rural,4624,female,69,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,10,1.45,23196
+291676225001,7,11,rural,1740,female,63,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,6,1.1,1386
+266059123002,30,23,rural,0,female,73,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,2.05,1386
+325306108001,0,1,rural,7880,female,70,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,3,1,11466
+010206216001,3,4,rural,35300,female,70,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,9,2.3,22230
+010451115002,23,13,rural,4160,female,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,10,1.5,346.5
+330131118001,11,13,rural,7020,female,66,normal,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,4,1.45,17010
+010104102001,6,6,rural,1333,female,61,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,4,1.15,7866
+244604204001,19,10,rural,11232,female,62,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.45,8746.5
+056604209001,21,21,rural,19620,female,61,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.15,28770
+177402224001,18,25,rural,1184,female,70,normal,single,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.75,346.5
+105102217001,22,17,city,19460,female,76,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,2.05,5838
+056604336001,7,6,rural,2324,female,73,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,2.3,1782
+271806311001,17,20,rural,1740,female,69,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,2.1500001,12558
+051606124001,21,21,rural,6380,female,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.2,23730
+108259231001,5,16,city,19830,female,66,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,4,1.15,24150
+104004103002,1,3,city,14960,female,65,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.3,1806
+010206102002,9,9,rural,15680,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.4,6558
+175531110001,14,7,city,22660,female,64,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.7,6426
+064604102001,0,7,city,26220,female,61,overweight,married,6 High School,with_chronic15,smoke_no15,no_drink15,5,1.4,4158
+175531219001,6,3,city,6700,female,62,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,8,1,5386.5
+330404301001,7,9,rural,9600,female,66,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.25,
+266306323002,10,15,rural,5848,female,71,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.25,9786
+330131324002,19,15,rural,6412,female,74,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,.5,1.75,396
+211176206001,14,18,rural,10680,female,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,2.1500001,7650
+177402111002,14,14,rural,17156,female,74,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,2.1500001,
+324045321002,2,8,rural,3840,female,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,10,1,11598
+294028219001,3,0,city,3900,female,69,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,1,4158
+297439121002,19,9,city,21080,female,60,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.05,594
+060481203002,2,6,rural,2320,female,64,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4.5,1.2,9198
+154058318002,6,22,city,2130,female,68,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1.35,4158
+116006315001,10,3,rural,4620,female,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.2,25200
+154044113001,2,0,rural,3752,female,64,overweight,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.05,1386
+265359216001,2,4,city,5484,female,69,overweight,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,4,1.25,6930
+296081212001,8,18,rural,4552,female,69,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.25,4158
+074002315001,3,7,rural,6500,female,62,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,8,1.05,12558
+207428106002,19,10,rural,68800,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1.15,4158
+108259225002,17,18,rural,62820,female,65,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,2.55,1386
+325554204001,9,2,rural,1820,female,70,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,5.5,1.15,346.5
+244676325002,9,9,rural,3820,female,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,1.25,4158
+144016205001,2,0,city,1800,female,60,normal,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1,1752
+010446108001,12,30,rural,4848,female,68,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.45,17838
+296081347001,12,8,rural,6072,female,74,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.3,1386
+168231222001,3,8,rural,7300,female,65,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,10,1.15,23226
+244676302001,16,7,rural,1790,female,68,normal,single,4 Elementary School,without_chronic15,smoke_yes15,more_once_drink15,5.5,1,4746
+074004304001,4,3,city,46612,female,63,normal,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_no15,no_drink15,5,1,5166
+330102101001,7,3,city,5920,female,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.35,
+110131302001,0,3,rural,40,female,80,too thin,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1.35,1386
+074631126002,17,4,rural,5800,female,64,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1,16800
+075376211001,18,10,rural,5840,female,78,too thin,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,2,1.45,4518
+266059310001,0,6,rural,3320,female,69,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,9,1.2,9786
+204906307001,16,15,rural,188480,female,60,normal,married,5 Middle School,with_chronic15,smoke_no15,less_once_drink15,7,1.55,4986
+330131115001,3,11,rural,54896,female,60,overweight,married,6 High School,with_chronic15,smoke_no15,no_drink15,6,1.5,14586
+171159208002,12,10,rural,9524,female,61,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.85,766.5
+266059315002,21,4,rural,6460,female,64,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,11,1,11970
+074631121001,8,17,rural,78218,female,61,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,less_once_drink15,2,1.7,3066
+010446202001,9,6,rural,4600,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1,15330
+056346322001,18,16,city,13820,female,69,too thin,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.3,2826
+111154202002,24,18,rural,14280,female,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,2.2,
+162431218001,20,3,rural,3000,female,72,overweight,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,6,1,5118
+051606225001,28,21,city,40600,female,65,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.8,1386
+117489217002,3,9,rural,24620,female,70,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.05,8370
+154044220002,8,12,rural,28520,female,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.05,22638
+320146126001,18,27,rural,8380,female,61,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1,15330
+154676321001,16,22,rural,1050,female,68,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.45,346.5
+010446219001,14,12,rural,1640,female,69,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6.5,1.1,14238
+294028110001,0,9,city,5400,female,78,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.05,346.5
+010446223001,17,9,rural,6120,female,68,overweight,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1.55,10440
+297439306002,11,5,rural,7958,female,60,overweight,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,6,1.2,3066
+075504207001,1,5,city,13080,female,65,normal,single,6 High School,without_chronic15,smoke_no15,no_drink15,7,1.4,5838
+105102301001,18,13,city,8560,female,64,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.45,2026.5
+058202322001,13,13,rural,4650.6001,female,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.45,14958
+241116210001,24,15,city,48579,female,70,normal,married,9 Four-Year College/Bachelor’s Degree,with_chronic15,smoke_no15,no_drink15,2.5,1.45,1920
+298245202002,4,4,rural,8360,female,66,normal,single,4 Elementary School,without_chronic15,smoke_no15,no_drink15,4,1,
+056059317001,24,19,rural,6231,female,63,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.3,8746.5
+056059117002,24,22,rural,12020,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.85,15330
+321131107001,1,8,city,44700,female,60,too thin,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,8,1,
+324681326001,5,14,rural,0,female,81,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,2.8499999,1386
+065546105002,8,9,rural,9264,female,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.35,8514
+298245302002,15,10,rural,6680,female,65,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.1,1386
+262728209001,7,13,rural,24640,female,65,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1,4158
+030476328002,0,3,rural,2440,female,75,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.2,
+064033336001,22,7,rural,396,female,69,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.25,1386
+054054125002,7,5,rural,3935,female,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.3,15466.5
+298631117001,9,20,rural,12090,female,64,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,6,1.4,3066
+105102311001,14,6,city,7500,female,64,too thin,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1.55,
+296081321002,19,23,rural,8180,female,62,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.1,24930
+324078109002,9,1,city,48920,female,62,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,7,1.35,1782
+064033124002,8,7,rural,3080,female,65,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.5,346.5
+034676221001,6,4,rural,12758,female,76,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1.1,
+266306322002,8,5,rural,25440,female,65,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,4,1.3,1386
+058659336002,6,5,rural,3632,female,63,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,7,1.5,13626
+262728320002,16,16,rural,12770,female,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.2,11370
+298245306002,0,13,rural,15600,female,66,overweight,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1,10746
+262728114001,13,18,rural,4876,female,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,2.1500001,
+326359320002,4,4,rural,7336,female,73,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,2.95,9198
+266059316001,24,19,rural,3320,female,62,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,29358
+057457119001,0,1,rural,1720,female,74,too thin,single,4 Elementary School,without_chronic15,smoke_no15,no_drink15,7,1,1806
+325554104002,17,15,rural,6530,female,65,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,2,1.55,6120
+108206221002,8,7,rural,8496,female,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.05,13146
+078233307001,13,6,rural,12954,female,62,overweight,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,7,1,
+330131101002,9,15,rural,19120,female,62,too thin,married,3 Sishu/Home School,with_chronic15,smoke_no15,no_drink15,8,1.85,3066
+270402124001,12,14,rural,22280,female,61,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1.85,32130
+288251228001,10,13,rural,6300,female,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.25,
+212428103002,6,6,city,11056,female,74,overweight,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,6,1.15,766.5
+064604115001,16,15,city,45576,female,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,2.4000001,5838
+320146328001,13,3,rural,3220,female,69,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.2,1386
+051606212001,20,23,rural,18940,female,72,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,2,1.8,11436
+031106113002,3,0,rural,8100,female,65,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,5.5,1.1,5028
+142403326002,6,2,city,52884,female,63,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1,4578
+014643203001,4,1,rural,8384,female,61,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1,3660
+030476326002,6,6,rural,19780,female,69,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,2.5,1.2,2076
+261676116002,19,25,rural,12296,female,68,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.3,346.5
+326346316001,22,8,rural,4096,female,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.25,19866
+142403121002,3,7,city,5260,female,68,too thin,married,6 High School,with_chronic15,smoke_no15,no_drink15,8,1.35,1386
+046746208001,5,4,rural,31040,female,71,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,10,1.2,4158
+108206318002,22,7,rural,4492,female,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.55,5139
+324045115001,4,15,city,47000,female,73,overweight,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,10,2.5,1386
+124099124001,7,5,rural,24910,female,77,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,1,1.75,6318
+075504216001,11,4,city,42250,female,68,normal,single,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,2.2,346.5
+058659311002,14,10,rural,24340,female,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.2,16506
+294099308001,11,8,rural,17920,female,63,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1,14130
+204028120001,1,4,city,85800,female,60,normal,married,9 Four-Year College/Bachelor’s Degree,without_chronic15,smoke_no15,less_once_drink15,6,1,1710
+018206108001,16,8,rural,1940,female,66,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.05,19386
+171159218001,11,1,rural,12740,female,63,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.1,1386
+296081107001,17,14,rural,1824,female,75,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,6.5,1.3,1386
+058659302002,18,17,rural,6600,female,69,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.05,3906
+325306105002,10,12,rural,4600,female,62,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1.15,1386
+207406122001,6,0,rural,13800,female,66,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1,9198
+275559207002,5,11,city,6236,female,63,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1,3066
+010104306001,1,22,rural,39900,female,61,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.3,12930
+268606328001,6,18,rural,574,female,61,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1.2,23226
+175531327001,15,12,rural,14448,female,69,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.95,19050
+211176115002,0,6,rural,56480,female,60,overweight,married,4 Elementary School,with_chronic15,smoke_yes15,no_drink15,6,1.25,1386
+294028310001,6,3,city,16920,female,79,normal,single,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,1,1386
+058659304002,10,9,rural,2644,female,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,8,1.2,4158
+347763226001,2,4,rural,14080,female,78,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,8,1,11706
+056346220001,5,9,rural,12320,female,62,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1.65,15330
+122490214001,5,2,city,8420,female,70,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.15,819
+056604201001,21,8,rural,3720,female,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.55,20958
+184037112001,10,13,city,10790,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.15,9786
+244056212001,3,0,rural,12332,female,60,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,6,1,1866
+281104211001,3,6,city,26450,female,67,normal,married,6 High School,with_chronic15,smoke_no15,no_drink15,5,1.7,4158
+334631318001,2,0,city,2062,female,89,normal,single,4 Elementary School,without_chronic15,smoke_no15,less_once_drink15,9,1,19038
+270402236001,3,7,rural,31600,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1,26190
+244676113001,23,4,rural,4020,female,79,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.1,11970
+345233203002,9,2,rural,6290,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,5,1.15,4506
+162431225001,13,3,rural,5298,female,64,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,4,1.05,6930
+141154328002,0,0,rural,8940,female,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1.1,1866
+064033308001,6,1,rural,640,female,82,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.75,346.5
+294028306001,0,2,city,8100,female,64,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,10,1,1386
+274951134001,3,9,city,11180,female,61,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,11,1.3,3066
+056346221002,8,10,rural,7560,female,65,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1.55,
+271806319002,19,8,rural,7848,female,69,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,2.3,23730
+056604331001,8,10,rural,13472,female,65,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.3,990
+334631213001,11,7,rural,400,female,65,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,4.5,1.6,13518
+117489309001,21,13,rural,53260,female,60,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.55,
+056604203001,10,9,rural,1910,female,75,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,more_once_drink15,5,1,14586
+271806103001,19,16,rural,4460,female,75,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.15,4266
+072428209002,1,5,city,30504,female,60,normal,married,6 High School,without_chronic15,smoke_no15,no_drink15,5,1.05,
+320146208001,22,18,rural,5504,female,67,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1,
+057457218001,11,7,rural,2172,female,71,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,8,1.15,16506
+105102233002,1,2,city,20730,female,69,too thin,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,no_drink15,6,1,8610
+018206319001,20,21,rural,11460,female,68,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,1,1.4,19278
+268606310002,15,12,rural,1400,female,74,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.3,1806
+296081313002,12,18,rural,15680,female,62,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.55,9198
+268606123001,17,18,rural,4066.8,female,64,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1,25998
+060481212001,3,0,rural,23700,female,67,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,9,1.85,346.5
+058202207001,2,18,rural,4632,female,68,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.55,12186
+266306327001,6,14,rural,3020,female,79,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.55,5838
+320146213001,5,3,rural,2300,female,79,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1,3066
+154631126001,6,8,rural,1670,female,70,normal,single,4 Elementary School,without_chronic15,smoke_yes15,no_drink15,8,1,1386
+010206210001,8,6,rural,4360,female,62,too thin,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,5,1,8130
+296331205002,16,7,rural,7120,female,61,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.4,9198
+074981317001,18,27,rural,2460,female,67,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,2.5,1.7,5436
+202454109001,8,1,rural,4740,female,68,normal,single,4 Elementary School,without_chronic15,smoke_no15,more_once_drink15,7,1,2586
+058202211002,7,7,rural,9536,female,68,normal,married,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1,10266
+285502115002,5,9,rural,20960,female,69,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.2,9588
+108259232001,8,24,rural,17660,female,60,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,4,1.4,9786
+330404326001,15,8,rural,14700,female,61,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.05,1386
+266059118001,16,14,rural,474,female,75,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.75,4158
+075504112002,3,4,city,49876,female,62,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1,
+108259328001,4,7,city,13600,female,79,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,7.5,1,1386
+074004201001,3,15,city,6320,female,76,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.4,1386
+294028116001,0,0,rural,3624,female,70,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1,1386
+294099205001,9,9,rural,155050,female,60,overweight,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.4,4026
+056059309001,23,24,rural,6080,female,72,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.4,9198
+271806124001,13,13,rural,1100,female,74,too thin,single,3 Sishu/Home School,with_chronic15,smoke_yes15,no_drink15,3,1.15,594
+265576314001,16,13,city,21230,female,71,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.9,4158
+296081317002,0,6,rural,2416,female,67,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,4,2.3,29730
+054054208001,2,8,rural,50160,female,76,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1,12558
+298631312002,0,4,city,4200,female,68,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,4,1.9,4158
+334002128002,7,6,rural,3420,female,70,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,2,1.15,1386
+211154204002,5,9,city,1600,female,64,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.65,1386
+064028216001,1,3,city,47100,female,62,normal,single,6 High School,without_chronic15,smoke_no15,more_once_drink15,6,1,526.5
+211176229002,24,9,rural,7482,female,68,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.2,6426
+262728304002,18,10,rural,2084,female,67,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.15,8068.5
+262728213001,9,18,rural,6130,female,67,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,3,1.3,16260
+265576119001,4,15,rural,2180,female,74,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.4,3066
+320146204002,3,0,rural,3060,female,73,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.3,99
+271806216001,2,3,rural,22880,female,69,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1,13038
+060440215002,16,11,rural,7240,female,62,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.25,22638
+060440308001,6,16,rural,22200,female,74,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,2.2,
+262728203002,9,18,rural,520,female,66,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,5,1,3066
+110131308002,0,8,rural,5390,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1,15330
+060481207002,1,6,rural,15920,female,60,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.35,18480
+194037102001,22,21,city,19450,female,65,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.65,1386
+054249309001,3,3,city,4568,female,73,too thin,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1,7386
+010206315001,8,8,rural,15630,female,60,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,7,1.2,20958
+275559109001,18,6,rural,20260,female,76,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.75,4158
+161159104001,17,17,rural,5560,female,66,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,8,1.6,8610
+058659317001,9,6,rural,12400,female,60,too thin,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1,766.5
+116006313002,2,1,rural,5030,female,70,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.15,1386
+014643119002,9,10,rural,8800,female,64,too thin,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,8,1.3,3600
+154044206002,12,18,rural,0,female,71,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,2.25,1386
+057633308001,6,8,rural,10880,female,65,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.2,5598
+014643102001,3,17,rural,24220,female,72,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,9,1,
+297439120001,3,2,city,43040,female,67,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.35,198
+268606111001,19,19,rural,3352,female,70,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.35,12558
+064028106001,1,1,city,5760,female,77,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1,4158
+074002302001,7,6,rural,10300,female,62,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.15,18186
+262728314002,7,13,rural,7448,female,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.55,5287.5
+211176105002,19,14,rural,10836,female,74,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,3,1.5,4158
+244604137001,7,3,city,11660,female,60,normal,single,6 High School,without_chronic15,smoke_no15,more_once_drink15,7,1.05,3066
+014051202001,14,5,rural,17000,female,70,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.15,346.5
+244056102001,8,10,city,15752,female,67,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.35,2106
+105102327002,3,1,city,18080,female,67,normal,married,5 Middle School,with_chronic15,smoke_yes15,no_drink15,8,1,1386
+296331312001,26,5,rural,26900,female,63,too thin,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,3,1.15,49.5
+064033301001,14,17,rural,15450,female,68,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,7,1.85,1074
+321659213001,4,7,city,9580,female,60,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6,1.25,2106
+261676204001,24,18,city,4976,female,72,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1.2,25998
+330404313002,10,15,city,4200,female,70,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.05,6426
+060481224002,2,1,rural,25064,female,60,overweight,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,7.5,1.5,1386
+347763207001,15,9,rural,400,female,69,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1,4158
+204028220001,3,14,city,131620,female,63,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.45,4746
+135559218002,8,16,rural,16520,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.35,24346.5
+064028101002,2,9,city,51796,female,72,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,5,1.4,1386
+105102226001,3,6,city,15040,female,63,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3.5,1.3,346.5
+056604315001,2,18,rural,13080,female,73,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.45,6426
+334002319001,7,22,rural,5800,female,69,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,4,1.2,19866
+135559311001,11,16,rural,9460,female,71,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,3,1.65,9786
+051606218001,14,13,rural,694,female,77,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.25,25410
+075376107001,15,12,rural,161184,female,66,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,9,1.35,654
+065546118001,17,21,rural,2896,female,60,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,6,1.05,26586
+244604201001,1,0,rural,11520,female,78,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.15,346.5
+142403304002,4,4,city,9965,female,68,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,4.5,1.6,1386
+338231116001,1,2,city,2590,female,72,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,3,1.2,13146
+010104212001,9,18,city,8560,female,66,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1.05,1686
+296331306002,13,10,rural,2060,female,65,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,2.05,
+122490217001,6,4,rural,36580,female,60,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1,3078
+160104117001,6,1,city,51636,female,60,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,9,1,9306
+065546306001,17,10,rural,37860,female,61,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.25,1386
+184037302001,0,2,city,35320,female,60,normal,single,6 High School,with_chronic15,smoke_no15,no_drink15,8,1,1806
+064033105002,8,5,rural,991,female,60,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1.7,4158
+056043227002,4,9,city,1335,female,62,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,6,1,15330
+244604207002,17,7,rural,567100,female,77,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1.1,1386
+345233204001,9,13,rural,3220,female,67,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,1,1.2,4080
+153859306001,8,25,rural,13920,female,61,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,10,1.6,1386
+334002110002,0,3,rural,22240,female,67,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.05,1806
+064604118001,3,7,city,7610,female,75,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5.5,1.2,1506
+211154209001,14,18,city,10140,female,63,normal,single,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,4,1.2,3786
+298245324001,13,6,rural,13400,female,74,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,6,1.6,1806
+072428305001,6,7,city,13272,female,77,normal,single,4 Elementary School,with_chronic15,smoke_no15,more_once_drink15,6,1.3,1386
+074631307001,17,11,rural,1744,female,68,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1,876
+320146324001,14,5,rural,20020,female,68,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1.8,1386
+112744221001,26,19,rural,6600,female,75,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,7,1.5,17358
+108259226002,8,16,rural,21474,female,66,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,1.9,148.5
+202454113001,8,11,rural,276380,female,60,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.7,346.5
+288251315002,17,18,rural,12740,female,64,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3.5,1.7,6426
+205304323002,7,6,city,15580,female,71,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.15,1386
+060440133001,26,22,rural,1980,female,63,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.35,32130
+261676206002,15,25,city,1450,female,70,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.7,6930
+177402120001,7,7,rural,6560,female,64,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.5,
+161159303001,0,0,city,17796,female,67,overweight,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,6.5,1,1386
+117489112001,0,8,rural,162800,female,66,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,less_once_drink15,8,1,1866
+046746325002,21,21,rural,17488,female,61,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.45,20958
+166006309001,25,17,rural,26096,female,62,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,2,
+108206105002,14,27,rural,1632,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,2.2,6930
+056302303001,18,8,rural,5600,female,73,too thin,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1,23730
+242702210001,10,0,city,5752,female,72,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,10,1.15,1626
+298245227002,4,4,rural,4518,female,76,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,9,2,3066
+154676117002,9,18,rural,13976,female,62,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.05,23730
+138202307001,28,20,rural,3720,female,68,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.4,6930
+174643222001,21,10,rural,4156,female,63,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,6,1.45,346.5
+270402247001,3,4,rural,21120,female,67,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,less_once_drink15,4,1.35,19278
+145528104001,1,8,city,14400,female,79,normal,married,7 Vocational School,with_chronic15,smoke_no15,no_drink15,7,1.2,1386
+294099317001,3,1,rural,9062,female,62,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,9,1,4158
+296331324002,13,2,rural,41524,female,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.35,766.5
+054249103001,15,6,rural,10570,female,73,too thin,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.6,13146
+111154220001,6,6,rural,3880,female,81,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,2.0999999,3066
+056346208002,17,8,rural,8460,female,73,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,2,1.15,6426
+060481108001,8,6,rural,5300,female,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.05,9198
+010104110001,11,6,rural,5650,female,61,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,2,1.1,4158
+058202321001,5,12,rural,7080,female,77,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,10,1,2106
+244676201001,6,3,rural,1382,female,73,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.3,3546
+168231103001,20,6,rural,19520,female,60,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.15,1386
+018206223001,6,3,rural,16596,female,68,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.3,4398
+211154308001,17,14,rural,8022,female,77,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,5,1.55,4158
+204906322001,20,17,rural,13260,female,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.4,28770
+054054310001,7,0,rural,12020,female,64,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,9,1,25410
+211176207002,18,2,rural,3180,female,61,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,8,1.15,7249.5
+175531221001,10,3,rural,3120,female,68,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,5,1,3066
+105102219001,11,6,city,16494,female,68,normal,single,7 Vocational School,with_chronic15,smoke_no15,no_drink15,6,1.3,1386
+074002202002,3,10,rural,8400,female,81,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.55,22638
+320146217001,8,6,rural,5510,female,63,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.7,1878
+271806109001,0,8,rural,16560,female,65,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.45,29358
+288251202001,24,24,rural,5762,female,68,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.45,1554
+056302219001,23,29,city,61180,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2.5,1.35,
+056302209002,1,1,city,3980,female,60,normal,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1.2,346.5
+112744129001,24,8,city,9248,female,73,overweight,single,4 Elementary School,with_chronic15,smoke_yes15,more_once_drink15,6,1.75,1386
+336059125001,23,17,rural,630,female,75,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,2.75,32130
+034676203002,17,19,rural,2520,female,79,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,2.25,586.5
+105381310001,1,0,rural,13900,female,72,normal,married,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,9,1.15,1386
+114604107001,8,9,city,6000,female,65,overweight,single,6 High School,with_chronic15,smoke_no15,no_drink15,6,1.15,3066
+056302212001,18,21,city,5440,female,61,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,1,1.9,6426
+294099321002,4,7,rural,55288,female,65,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,7,1.2,10434
+034043323002,15,5,rural,8400,female,62,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.05,11358
+266059122002,10,4,rural,8820,female,62,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.3,
+320146124001,14,3,rural,1492,female,64,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1,3066
+018206207002,10,9,rural,70200,female,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.05,3066
+168231115002,7,6,rural,11960,female,64,too thin,married,5 Middle School,without_chronic15,smoke_yes15,no_drink15,6,1.2,12558
+031106224001,23,18,rural,25910,female,74,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,6,1.5,3246
+205304218001,5,1,city,15260,female,60,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,1,148.5
+141154313001,14,7,rural,7760,female,70,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,6,1.25,6930
+211176303001,13,17,rural,3277.2,female,79,too thin,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,10,1.6,1386
+074981320001,21,21,rural,32034,female,75,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_yes15,no_drink15,9,1.75,1878
+168231207001,17,17,rural,18120,female,61,overweight,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,8,1.95,792
+168231130002,13,20,rural,76900,female,88,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,4.5,1.7,19866
+296081309001,2,8,rural,9920,female,65,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,4,1.3,11358
+142403102001,2,0,city,7050,female,74,overweight,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.25,1386
+321131331001,5,6,rural,12890,female,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.8,1386
+296006227001,18,14,rural,11360,female,67,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,3.0999999,1386
+117489317001,8,14,rural,3180,female,62,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.15,18906
+202454322001,6,9,rural,10040,female,68,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,5,1.15,1386
+094004117001,5,3,city,47200,female,77,normal,married,6 High School,with_chronic15,smoke_no15,no_drink15,6,1.3,1386
+166006303001,19,13,rural,12270,female,67,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.8,13626
+072428218001,11,7,city,4796,female,69,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.5,1626
+295331114001,21,29,rural,10552,female,67,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,2.2,19866
+162431226001,12,10,rural,5680,female,60,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.2,18366
+292458111001,4,0,rural,3500,female,67,normal,single,4 Elementary School,with_chronic15,smoke_no15,less_once_drink15,5,1,9198
+241116320001,9,8,city,48220,female,62,normal,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,3,1.1,1074
+160104306001,11,4,city,38484,female,74,normal,married,5 Middle School,with_chronic15,smoke_no15,more_once_drink15,6,1,1386
+338231213001,15,15,city,1210,female,63,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.15,3066
+101791303001,0,13,rural,63200,female,66,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_yes15,more_once_drink15,7.5,1,11970
+060440111002,24,15,rural,10960,female,66,normal,married,4 Elementary School,without_chronic15,smoke_no15,no_drink15,7,1.3,148.5
+265576313002,11,12,rural,4920,female,74,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.25,13866
+056302308001,10,14,rural,3240,female,75,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.1,8982
+074981319001,7,4,rural,18040,female,62,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.2,3306
+054054330001,22,0,rural,7810,female,87,overweight,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,5,1.6,148.5
+056604121001,10,18,rural,13400,female,61,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1.1,22638
+160104107002,7,1,city,33810,female,63,overweight,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.45,
+212428214002,19,13,city,78260,female,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_yes15,no_drink15,4,1.4,6426
+158278323001,3,7,city,5880,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,less_once_drink15,5,1.4,6186
+058202221001,17,10,rural,97610,female,75,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.15,2934
+298631214001,5,5,rural,14867,female,69,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1,
+261676212001,22,23,rural,2300,female,61,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,9,1.5,15210
+046746121001,9,13,rural,14760,female,66,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.15,8604
+298631105001,6,5,rural,3368,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,7.5,1.05,346.5
+075504114001,18,2,city,6360,female,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,7,1.2,5386.5
+291676219001,18,10,rural,440,female,71,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,5,1.8,1386
+138202102001,17,25,rural,3480,female,63,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,2,26586
+241116202002,17,5,city,51140,female,73,normal,married,6 High School,with_chronic15,smoke_no15,less_once_drink15,5,1.65,1230
+046746112001,14,19,rural,3000,female,65,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,1,1.6,
+324045311002,1,5,rural,26270,female,70,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1.4,4218
+014051313002,18,13,rural,2504,female,72,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.55,388.5
+297439125002,8,10,city,9340,female,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.2,1386
+108206129002,15,24,rural,21690,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.85,22050
+124099207001,2,6,rural,3300,female,66,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,less_once_drink15,3,1.35,6930
+325306207001,10,6,rural,14554,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.2,19278
+325306115001,6,3,rural,6340,female,76,too thin,single,4 Elementary School,without_chronic15,smoke_no15,no_drink15,5,1.45,49.5
+056302318001,15,13,rural,6920,female,65,too thin,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,4,1.35,6930
+288251306001,21,21,rural,5160,female,74,too thin,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,more_once_drink15,2,2.25,6930
+321131306001,12,8,city,10340,female,63,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,2,1.25,
+142403106001,18,3,city,1900,female,76,normal,single,4 Elementary School,without_chronic15,smoke_no15,no_drink15,4,1.3,4998
+154044208002,10,0,rural,23240,female,68,normal,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,8,1.2,3066
+010451207001,20,23,rural,16240,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,2,18186
+108206317002,0,0,rural,5930,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1,
+154676215002,15,24,rural,10032,female,71,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.85,23730
+108259108002,20,17,rural,9740,female,63,overweight,married,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1.35,2346
+014031227001,16,6,rural,41030,female,77,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.15,1446
+321659322002,8,13,rural,6780,female,70,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,,1.65,4158
+162431213001,0,9,city,3168,female,68,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.85,3096
+065546108001,19,18,rural,8240,female,66,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,1.25,17566.5
+108259209001,12,17,rural,17260,female,72,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,3,1.55,1386
+144016114002,27,22,city,12060,female,63,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.4,4158
+175531117002,12,15,city,13240,female,60,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,8,1.05,3066
+202454216001,24,3,rural,56036,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.1,9786
+014051324001,15,9,rural,10120,female,70,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,7,1.2,4158
+065546208002,15,14,rural,1520,female,64,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,8,1.3,1386
+336059209001,19,13,rural,7395,female,61,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,3,1.6,960
+338231307001,3,2,rural,7520,female,64,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,7,1,4126.5
+010206225001,15,29,rural,480,female,74,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.7,12558
+064033316002,6,24,rural,7060,female,68,too thin,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,less_once_drink15,8,1.55,23730
+242702124001,20,15,rural,7172,female,66,too thin,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1.2,14670
+325554113002,1,2,rural,3644,female,60,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.05,3348
+124099221002,6,9,rural,5646,female,61,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.2,10849.5
+161159201001,11,13,city,7950,female,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,3,1.85,15198
+294028206001,3,2,city,22240,female,60,normal,single,6 High School,with_chronic15,smoke_no15,no_drink15,7,1.2,1806
+108259204002,23,17,city,5210,female,67,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,2.0999999,4398
+141154121001,10,4,rural,3880,female,73,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,1.3,4278
+074002111001,8,15,rural,13800,female,61,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7,1.15,6426
+141154112001,11,12,rural,5560,female,62,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.1,7386
+060481129001,7,12,rural,34680,female,68,overweight,single,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,2.3,1386
+334002301002,7,11,rural,100,female,65,too thin,single,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,5,1,
+288251108001,15,5,city,5550,female,70,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.3,4578
+244604208001,7,0,rural,2960,female,60,too thin,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,9,1.15,10080
+194037329001,22,6,rural,7860,female,77,overweight,single,1 No Formal Education (Illiterate),with_chronic15,smoke_yes15,no_drink15,9,1.15,4158
+072428102001,15,3,city,24812,female,71,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1.35,3066
+294028207001,17,17,city,22834,female,76,overweight,single,5 Middle School,with_chronic15,smoke_yes15,no_drink15,5,1.65,4158
+111154311002,5,8,city,4820,female,74,too thin,single,8 Two-/Three-Year College/Associate Degree,without_chronic15,smoke_no15,no_drink15,5,1.2,2026.5
+261676122001,0,15,rural,9100,female,60,normal,single,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,no_drink15,8,1,10638
+112744205002,6,3,rural,13100,female,76,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.2,6930
+325554320001,18,8,city,38860,female,62,overweight,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,7.5,1.05,1806
+324045128001,4,8,rural,8820,female,67,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,1,1.3,7758
+242702223001,14,15,rural,1538,female,74,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,0,1.45,23730
+292458106002,5,9,rural,9620,female,62,normal,married,4 Elementary School,with_chronic15,smoke_no15,no_drink15,4,1,6822
+207428315001,24,17,rural,9480,female,60,overweight,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,5,2.6500001,2472
+296006319002,0,0,rural,8498,female,64,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,7,1.05,26586
+074981310002,23,16,rural,15560,female,62,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,more_once_drink15,8,1.35,13146
+334002103001,17,6,rural,42860,female,69,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,3,1.05,346.5
+296331119002,8,10,rural,5490,female,63,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,5,1.6,15810
+124099317001,4,8,rural,13420,female,72,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,6,1.5,10278
+124099311002,11,22,rural,5680,female,62,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,5,1.05,25998
+046746128002,24,11,rural,12350,female,68,normal,single,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,7,1.9,15810
+057457212001,8,5,rural,13040,female,77,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.6,23730
+268606315001,16,20,rural,2908,female,70,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4.5,1.4,19386
+174643219001,7,17,rural,6668,female,64,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,10,1.25,9786
+142403308001,17,5,city,2733,female,78,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,6,1,594
+116006224001,16,23,rural,8060,female,73,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,more_once_drink15,4,1.2,7779
+296081213001,12,5,rural,100720,female,60,normal,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,4,2.4000001,4158
+175531217001,25,12,rural,1610,female,60,normal,single,5 Middle School,without_chronic15,smoke_no15,no_drink15,5,1,10746
+154631131001,8,13,rural,7110,female,66,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.05,9786
+280154302001,14,17,rural,4258,female,61,too thin,married,2 Did not Finish Primary School,without_chronic15,smoke_no15,no_drink15,4,1.1,18318
+294099204002,9,7,rural,5720,female,63,normal,married,2 Did not Finish Primary School,with_chronic15,smoke_no15,no_drink15,3,1,9150
+117489106001,12,6,rural,30565,female,63,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1,3466.5
+118276327001,4,0,rural,6590,female,70,normal,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,more_once_drink15,8,1.05,9198
+010104314002,14,14,rural,3156,female,65,too thin,single,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,8,1.4,4158
+242702220001,6,7,rural,1440,female,61,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,6,1.4,9786
+242702315002,14,16,rural,11360,female,68,too thin,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,1.05,18570
+118276220001,9,3,rural,5040,female,61,overweight,married,1 No Formal Education (Illiterate),with_chronic15,smoke_no15,no_drink15,2,1,6558
+105381303002,5,3,rural,54630,female,61,normal,married,1 No Formal Education (Illiterate),without_chronic15,smoke_no15,less_once_drink15,7,1,
+280154217001,8,4,rural,2824,female,68,normal,single,4 Elementary School,with_chronic15,smoke_no15,no_drink15,5,1.25,14130
+281104302002,4,7,city,121532,female,66,normal,married,8 Two-/Three-Year College/Associate Degree,with_chronic15,smoke_no15,less_once_drink15,7,1,3066
+168231108001,23,1,rural,5384,female,60,normal,single,2 Did not Finish Primary School,without_chronic15,smoke_yes15,no_drink15,6,1.15,2826
+111154108002,9,8,city,18076,female,73,normal,married,5 Middle School,with_chronic15,smoke_no15,no_drink15,5,1.15,3066
